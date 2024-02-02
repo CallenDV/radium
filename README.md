@@ -1,6 +1,6 @@
 # radium
 
-> [!WARN]
+> [!NOTE]
 > this bad for ur computer
 
 Radium.
